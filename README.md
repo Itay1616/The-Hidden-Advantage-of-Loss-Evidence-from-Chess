@@ -1,5 +1,8 @@
 # The-Hidden-Advantage-of-Loss-Evidence-from-Chess
 Using data from 26 official chess tournaments, we examine how recent outcomes are associated with performance in repeated competition. The setting combines pairing based on cumulative scores with Elo ratings that summarize prior playing strength. We find no evidence of a hot-hand pattern in our analysis. Instead, we document a bounce-back pattern: conditional on Elo-based expectations, participants tend to perform better after a worse prior outcome relative to their opponent's. The estimated association is about 0.026 points in expected score for a prior-loss versus prior-win matchup, relative to a matchup with equal previous-round results. The pattern is present under both fast and regular time controls and in elite events; the estimate is smaller and imprecise in women's tournaments. The results highlight the value of studying negative as well as positive performance dependence in repeated competition.
-This Github projects includes the chess games data analyzed in the paper, as well as the data of the sutvey reported in Appendix S4.\\
+
+This Github projects includes the chess games data analyzed in the paper, as well as the data of the sutvey reported in Appendix S4.
+
 Link to paper: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6648501](url)
+
 Link to the survey's questions: [https://forms.gle/947nGEuTj3PFGE6h6](url)
